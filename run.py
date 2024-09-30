@@ -66,7 +66,6 @@ def init():
     description = click.prompt("Enter project description")
     
     # TODO: Implement code analysis for existing projects
-    
     data = {
         'title': title,
         'description': description
